@@ -1,4 +1,4 @@
-# 🔐 Mini SOC – Security Monitoring Dashboard
+`# 🔐 Mini SOC – Security Monitoring Dashboard
 
 A Flask-based Mini Security Operations Center (SOC) dashboard designed to monitor security events, identify suspicious IP addresses, classify alert severity, and generate security reports.
 
@@ -90,3 +90,16 @@ This project is intended for educational purposes and uses sample security event
 **Dhriti Singh**
 
 B.Tech – Cybersecurity
+## 📸 Project Screenshots
+
+### 1. Mini SOC Dashboard
+
+![Mini SOC Dashboard](mini%20soc.jpeg)
+
+### 2. Security Analytics
+
+![Security Analytics](mini%20soc%202.jpeg)
+
+### 3. Security Events
+
+![Security Events](mini%20soc%203.jpeg)
